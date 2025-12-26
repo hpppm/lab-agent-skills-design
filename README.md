@@ -12,3 +12,7 @@ Design a secure agent skill using files and progressive disclosure.
 - Least privilege
 - Context minimization
 - Trusted content only
+
+
+## Resources 
+- https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
